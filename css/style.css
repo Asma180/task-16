@@ -291,7 +291,7 @@ a{
 	margin-bottom: 30px;
 }
 .border{
-	border: 1px solid #ddd;
+	border: 2px solid #ddd;
 	box-shadow: 5px #ddd;
 }
 a:hover i{
